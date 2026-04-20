@@ -9,7 +9,7 @@ SELECT
     l.LISTING_URL, 
     l.LISTING_NAME,
     l.ROOM_TYPE,
-    l.MINIMUM_NIGHTS,
+    l.MINIMUM_NIGHTS, 
     l.HOST_ID,
     l.PRICE,
     l.CREATED_AT,
